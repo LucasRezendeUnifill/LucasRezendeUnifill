@@ -1,8 +1,12 @@
 ### Hi there 👋
 <html>
+  .ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
   </head>
     <body>
-    <pre>
+    <div class="ascii-art">
  
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
@@ -22,8 +26,7 @@
  / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'      
-  
- </pre>
+ </div>
  </body> 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>

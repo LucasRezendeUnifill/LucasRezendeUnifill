@@ -5,21 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <title>Templo7K</title>
 </head>
 <body>
-<pre>             ,----------------,              ,---------,
+<pre>          ,----------------,            ,---------,
         ,-----------------------,          ,"        ,"|
       ,"                      ,"|        ,"        ,"  |
      +-----------------------+  |      ,"        ,"    |
      |  .-----------------.  |  |     +---------+      |
      |  |                 |  |  |     | -==----'|      |
-     |  | L00k3y Presents |  |  |     |         |      |
-     |  |  Linux Privesc  |  |  |/----|`---=    |      |
-     |  |    <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a7d5c8c8d3e790cc">[email&#160;protected]</a> >    |  |  |   ,/|==== ooo |      ;
+     |  | Lucas Rezende   |  |  |     |         |      |
+     |  |Github Repository|  |  |/----|`---=    |      |
+     |  |evilab@LAB8M04:~$|  |  |
      |  |                 |  |  |  // |(((( [33]|    ,"
      |  `-----------------'  |," .;'| |((((     |  ,"
-     +-----------------------+  ;;  | |         |,"     - irc.efnet.org | g0t r00t!?
+     +-----------------------+  ;;  | |         |,"     
         /_)______________(_/  //'   | +---------+
    ___________________________/___  `,
   /  oooooooooooooooo  .o.  oooo /,   \,"-----------

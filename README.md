@@ -25,5 +25,5 @@
  / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'
-<img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></img>
+<code><img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></img></code>
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>

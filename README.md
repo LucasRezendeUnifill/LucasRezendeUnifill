@@ -14,5 +14,7 @@
 </p>
 
 ### 🧾 Sobre mim
-Sou **graduando em Engenharia de Software**, tenho **21 anos** e trabalho com backend e desenvolvimento web.  
-Interesso-me por arquitetura de sistemas, automação e otimização de bancos de dados. Atualmente estudando boas práticas em **PHP**, **JavaScript**, **SQL**, administração Linux e serviços na **AWS**.
+Sou **Lucas Rezende de Sales**, **graduando em Engenharia de Software**, tenho **21 anos** e trabalho com **backend** e **desenvolvimento web**.  
+Interesso-me por **arquitetura de sistemas**, **automação** e **otimização de bancos de dados**.  
+Atualmente estudando boas práticas em **PHP**, **JavaScript**, **SQL**, administração **Linux** e serviços na **AWS**.
+

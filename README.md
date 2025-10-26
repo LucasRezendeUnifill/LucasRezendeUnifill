@@ -2,7 +2,7 @@
 
 <p align="left">
   <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="48" height="48"/>
+  <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="48" height="48"/>
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" width="48" height="48"/>
   <!-- SQL (MySQL) -->
